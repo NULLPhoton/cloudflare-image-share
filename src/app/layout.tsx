@@ -7,7 +7,7 @@ import React from "react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "OwO Network Image Share",
+  title: "Cloudflare Image Share",
   description: "Private photo sharing app",
 };
 
